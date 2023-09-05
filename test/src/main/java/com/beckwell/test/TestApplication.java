@@ -1,7 +1,7 @@
 package com.beckwell.test;
 
-import com.beckwell.springboot.HuawuqueSpringApplication;
-import com.beckwell.springboot.HuawuqueSpringBootApplication;
+import com.beckwell.springboot.annotation.HuawuqueSpringBootApplication;
+import com.beckwell.springboot.configuration.HuawuqueSpringApplication;
 
 @HuawuqueSpringBootApplication
 public class TestApplication {
